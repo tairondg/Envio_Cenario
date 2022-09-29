@@ -1,2 +1,9 @@
 # Envio_Cenario
- Envio do cenário atual dos dados internos
+
+Projeto para enviar um cenário por e-mail dos dados atualizado.
+
+Projeto criado em Python, HTML e CSS.
+
+Projeto inclui:
+
+
